@@ -1,3 +1,5 @@
+![Travis CI Build Status](https://api.travis-ci.com/electronicpanopticon/panoptes.svg?branch=master "Travis CI")
+
 # Panoptes
 
 Dart utilities
